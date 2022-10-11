@@ -64,3 +64,5 @@ second instance corresponds to the graph below on the right.
 
 ## Notes on My Solution
 
+This is a very simple program, the only real design decision I had to make was how I planned to represent each instance of the undirected graph. I chose to create an adjacency list of vertices in the graph using Python dictionaries (which I think is probably the standard representation). 
+
